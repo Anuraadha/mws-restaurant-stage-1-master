@@ -15,7 +15,7 @@ This project is project for Front End Developer Nanodegree program for UDACITY. 
 
 * [Info](#Info)
 * [How To Run](#HowToRun)
-* [Leaflet.js and Mapbox](#Leaflet.js and Mapbox)
+* [Leaflet.js and Mapbox](#Leaflet.jsandMapbox)
 
 
 
